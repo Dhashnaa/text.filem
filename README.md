@@ -1,1 +1,1 @@
-new file come.text
+new file come.tex
